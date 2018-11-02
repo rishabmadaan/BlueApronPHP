@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ac1e2b71-0c83-4af9-b5ea-900257aae85f" name="blueapron" url="http://localhost/BlueApron">
+        <fileTransfer port="0" mountedRoot="C:\xampp\htdocs\BlueApron" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
